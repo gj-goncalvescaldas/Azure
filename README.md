@@ -36,7 +36,11 @@ This project demonstrates various methods to access Azure Data Lake Storage (ADL
 7. **7_access_adls_using_secret_sas_token**  
 8. **8_explore_dbfs_root**  
 9. **9_mount_adls_using_service_principal**  
-10. **10_mount_adls_containers_for_project**  
+10. **10_mount_adls_containers_for_project**
+<img src="adls/Images/5.png" alt="imagelalalaa" width="75%" />
+<img src="adls/Images/6.png" alt="imagelalalaa" width="75%" /> 
+<img src="adls/Images/7.png" alt="imagelalalaa" width="75%" />
+<img src="adls/Images/8.png" alt="imagelalalaa" width="75%" />  
 
 ### Folder Ingestion
 
