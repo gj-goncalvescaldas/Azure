@@ -43,7 +43,7 @@ This project demonstrates various methods to access Azure Data Lake Storage (ADL
 <img src="adls/Images/8.png" alt="imagelalalaa" width="75%" />  
 
 ### Folder Ingestion
-
+The Ingestion Folder focuses on the process of extracting, transforming, and loading (ETL) data from various file formats—such as CSV, JSON, and bulk files—into Azure Data Lake Storage (ADLS). Using PySpark within Databricks, the data was efficiently read from ADLS, transformed to meet project requirements, and then written back to ADLS in a structured format for further analysis. The ingestion process handled a variety of file types, including single CSV and JSON files, as well as multiple CSV and JSON files for bulk ingestion. Authentication and secure access to ADLS were managed through Azure Key Vault, ensuring that sensitive credentials were securely stored and retrieved. This was a simple project with relatively small datasets, and the main objective was to gain hands-on experience working within the Azure environment, leveraging tools like Databricks, ADLS, and Key Vault to build a streamlined ETL workflow. All files used in this process are located in the adls folder within this GitHub repository.
 0. **0_ingest_all_files**  
 1. **1_ingest_circuits_file**  
 2. **2_ingest_races_file**  
@@ -52,7 +52,9 @@ This project demonstrates various methods to access Azure Data Lake Storage (ADL
 5. **5_ingest_results_file**  
 6. **6_ingest_pitstop_file**  
 7. **7_ingest_laptimes_file**  
-8. **8_ingest_qualifying_file**  
+8. **8_ingest_qualifying_file**
+<img src="adls/Images/9.png" alt="imagelalalaa" width="75%" />
+<img src="adls/Images/10.png" alt="imagelalalaa" width="75%" /> 
 
 ### Folder Presentation
 
