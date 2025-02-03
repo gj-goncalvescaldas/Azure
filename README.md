@@ -57,7 +57,7 @@ The Ingestion Folder focuses on the process of extracting, transforming, and loa
 <img src="adls/Images/10.png" alt="imagelalalaa" width="75%" /> 
 
 ### Folder Presentation
-
+The Presentation Folder combines diverse datasets to perform minor analyses, such as identifying the best drivers in the 2020 Abu Dhabi Grand Prix, the best driver and team by year, and standardizing points calculations across different seasons
 1. **1_race_results**  
 2. **2_driver_standings**  
 3. **3_constructors_standing**  
@@ -66,10 +66,21 @@ The Ingestion Folder focuses on the process of extracting, transforming, and loa
 
 ### Folder Includes
 
-- **common_functions**: Shared utility functions.
-- **configuration**: Configuration files for the project.
-
+- **common_functions**: Contains shared utility functions used across the project. These functions are accessed in notebooks using the %run command to avoid code duplication and ensure consistency.
+- **configuration**: Stores configuration files that centralize settings and parameters, making it easier to manage and update project-wide configurations.
+<img src="adls/Images/11.png" alt="imagelalalaa" width="75%" /> 
 ### Folder Analysis
+This folder contains two notebooks with visualizations created in Databricks. The analyses focus on identifying dominant drivers and teams based on historical data. Visualizations are included in the notebooks for better insights, and I’ve added them to the files for you to review.
 
 1. **1_find_dominant_drivers**  
-2. **2_find_dominant_teams**  
+2. **2_find_dominant_teams**
+
+### Folder ADLS
+
+1. **demo**  
+2. **images**
+3. **raw**
+4. **process1**
+5. **presentation**
+
+
