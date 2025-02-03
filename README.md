@@ -17,12 +17,13 @@ This project demonstrates various methods to access Azure Data Lake Storage (ADL
 - **SQL**: For querying and analyzing structured data.
 
 ---
-
+![Alt Text](/adls/Images/1.png)
 ## Project Structure
 
 ### Folder Set-Up
 
-1. **1_access_adls_using_access_keys**  
+1. **1_access_adls_using_access_keys**
+ 
 2. **2_access_adls_using_sas_token**  
 3. **3_access_adls_using_service_principal**  
 4. **4_access_adls_using_cluster_scoped_credentials**  
