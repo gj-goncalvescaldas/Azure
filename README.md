@@ -22,6 +22,7 @@ This project demonstrates various methods to access Azure Data Lake Storage (ADL
 
 1. **1_access_adls_using_access_keys**
 <img src="adls/Images/1.png" alt="imagelalalaa" width="50%" />
+
 2. **2_access_adls_using_sas_token**  
 3. **3_access_adls_using_service_principal**  
 4. **4_access_adls_using_cluster_scoped_credentials**  
