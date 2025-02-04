@@ -104,13 +104,13 @@ This folder contains two notebooks with visualizations created in Databricks. Th
 <img src="adls/Images/17.png" alt="ADLS Association" width="50%" />
 
 ### Creation and Execution of a Pipeline with All Ingestion Notebooks
-<img src="adls/Images/16.png" alt="Pipeline Execution" width="50%" />
+<img src="adls/Images/16.png" alt="Pipeline Execution" width="75%" />
 
 ### Verification of the Raw Folder in ADLS and Execution of Ingestion Notebooks
-<img src="adls/Images/18.png" alt="Raw Folder Verification" width="50%" />
+<img src="adls/Images/18.png" alt="Raw Folder Verification" width="75%" />
 
 ## Cost of This Small Project
-<img src="adls/Images/19.png" alt="Project Cost" width="50%" />
+<img src="adls/Images/19.png" alt="Project Cost" width="75%" />
 
 ## My Azure Portal Dashboard for This Project
 <img src="adls/Images/20.png" alt="Azure Portal Dashboard" width="75%" />
