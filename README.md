@@ -86,7 +86,7 @@ This folder contains two notebooks with visualizations created in Databricks. Th
 ## Databricks Insights
 
 ### Cluster Creation
-<img src="adls/Images/12.png" alt="Cluster Creation" width="75%" />
+<img src="adls/Images/12.png" alt="Cluster Creation" width="30%" />
 
 ### Job Configuration
 <img src="adls/Images/13.png" alt="Job Configuration" width="75%" />
@@ -97,16 +97,16 @@ This folder contains two notebooks with visualizations created in Databricks. Th
 ## Data Factory Insights
 
 ### Association of the Cluster Created in Databricks
-<img src="adls/Images/15.png" alt="Cluster Association" width="30%" />
+<img src="adls/Images/15.png" alt="Cluster Association" width="75%" />
 
 ### Association of ADLS
-<img src="adls/Images/17.png" alt="ADLS Association" width="30%" />
+<img src="adls/Images/17.png" alt="ADLS Association" width="75%" />
 
 ### Creation and Execution of a Pipeline with All Ingestion Notebooks
-<img src="adls/Images/16.png" alt="Pipeline Execution" width="30%" />
+<img src="adls/Images/16.png" alt="Pipeline Execution" width="75%" />
 
 ### Verification of the Raw Folder in ADLS and Execution of Ingestion Notebooks
-<img src="adls/Images/18.png" alt="Raw Folder Verification" width="30%" />
+<img src="adls/Images/18.png" alt="Raw Folder Verification" width="75%" />
 
 ## Cost of This Small Project
 <img src="adls/Images/19.png" alt="Project Cost" width="75%" />
