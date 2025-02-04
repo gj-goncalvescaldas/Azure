@@ -86,17 +86,6 @@ This folder contains two notebooks with visualizations created in Databricks. Th
 ## Databricks Insights
 
 ### Cluster Creation
-<img src="adls/Images/12.png" alt="Cluster Creation" width="30%" />
-
-### Job Configuration
-<img src="adls/Images/13.png" alt="Job Configuration" width="75%" />
-
-### Catalog Management
-<img src="adls/Images/14.png" alt="Catalog Management" width="75%" />
-
-## Databricks Insights
-
-### Cluster Creation
 <img src="adls/Images/12.png" alt="Cluster Creation" width="75%" />
 
 ### Job Configuration
