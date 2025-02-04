@@ -97,6 +97,7 @@ This folder contains two notebooks with visualizations created in Databricks. Th
 ## Data Factory Insights
 
 ### Association of the Cluster Created in Databricks
+<img src="adls/Images/21.png" alt="Cluster Association" width="75%" />
 <img src="adls/Images/15.png" alt="Cluster Association" width="75%" />
 
 ### Association of ADLS
