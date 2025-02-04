@@ -1,4 +1,4 @@
-# Azure Data Lake Storage (ADLS) Project
+# Azure Project
 
 This project demonstrates various methods to access Azure Data Lake Storage (ADLS) and perform data ingestion, presentation, and analysis tasks using **Databricks**, **Key Vaults**, **Entra ID**, **Storage Accounts**, **Data Factory**, **Cost Management**, **Python**, **PySpark**, and **SQL**.
 
@@ -97,10 +97,11 @@ This folder contains two notebooks with visualizations created in Databricks. Th
 ## Data Factory Insights
 
 ### Association of the Cluster Created in Databricks
+<img src="adls/Images/21.png" alt="Cluster Association" width="75%" />
 <img src="adls/Images/15.png" alt="Cluster Association" width="75%" />
 
 ### Association of ADLS
-<img src="adls/Images/17.png" alt="ADLS Association" width="75%" />
+<img src="adls/Images/17.png" alt="ADLS Association" width="50%" />
 
 ### Creation and Execution of a Pipeline with All Ingestion Notebooks
 <img src="adls/Images/16.png" alt="Pipeline Execution" width="75%" />
