@@ -43,7 +43,7 @@ This project demonstrates various methods to access Azure Data Lake Storage (ADL
 <img src="adls/Images/8.png" alt="imagelalalaa" width="75%" />  
 
 ### Folder Ingestion
-The Ingestion Folder focuses on the process of extracting, transforming, and loading (ETL) data from various file formats—such as CSV, JSON, and bulk files—into Azure Data Lake Storage (ADLS). Using PySpark within Databricks, the data was efficiently read from ADLS, transformed to meet project requirements, and then written back to ADLS in a structured format for further analysis. The ingestion process handled a variety of file types, including single CSV and JSON files, as well as multiple CSV and JSON files for bulk ingestion. Authentication and secure access to ADLS were managed through Azure Key Vault, ensuring that sensitive credentials were securely stored and retrieved. This was a simple project with relatively small datasets, and the main objective was to gain hands-on experience working within the Azure environment, leveraging tools like Databricks, ADLS, and Key Vault to build a streamlined ETL workflow. All files used in this process are located in the adls folder within this GitHub repository.
+The Ingestion Folder focuses on the process of extracting, transforming, and loading (ETL) data from various file formats—such as CSV, JSON, and bulk files—into Azure Data Lake Storage (ADLS). Using PySpark within Databricks, the data was efficiently read from ADLS, transformed to meet project requirements, and then written back to ADLS in a structured format for further analysis. The ingestion process handled a variety of file types, including single CSV and JSON files, as well as multiple CSV and JSON files for bulk ingestion. Authentication and secure access to ADLS were managed through Azure Key Vault, ensuring that sensitive credentials were securely stored and retrieved. This was a simple project with relatively small datasets, and the main objective was to work with the Azure environment, leveraging tools like Databricks, ADLS, and Key Vault to build a streamlined ETL workflow. All files used in this process are located in the adls folder within this GitHub repository.
 0. **0_ingest_all_files**  
 1. **1_ingest_circuits_file**  
 2. **2_ingest_races_file**  
@@ -83,4 +83,17 @@ This folder contains two notebooks with visualizations created in Databricks. Th
 4. **process1**
 5. **presentation**
 
+## Databricks Insights
+
+### Cluster Creation
+<img src="adls/Images/12.png" alt="Cluster Creation" width="75%" />
+
+### Job Configuration
+<img src="adls/Images/13.png" alt="Job Configuration" width="75%" />
+
+### Catalog Management
+<img src="adls/Images/14.png" alt="Catalog Management" width="75%" />
+
+## Data Factory Insights
+*(To be added later)*
 
