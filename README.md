@@ -94,6 +94,34 @@ This folder contains two notebooks with visualizations created in Databricks. Th
 ### Catalog Management
 <img src="adls/Images/14.png" alt="Catalog Management" width="75%" />
 
+## Databricks Insights
+
+### Cluster Creation
+<img src="adls/Images/12.png" alt="Cluster Creation" width="75%" />
+
+### Job Configuration
+<img src="adls/Images/13.png" alt="Job Configuration" width="75%" />
+
+### Catalog Management
+<img src="adls/Images/14.png" alt="Catalog Management" width="75%" />
+
 ## Data Factory Insights
-*(To be added later)*
+
+### Association of the Cluster Created in Databricks
+<img src="adls/Images/15.png" alt="Cluster Association" width="30%" />
+
+### Association of ADLS
+<img src="adls/Images/17.png" alt="ADLS Association" width="30%" />
+
+### Creation and Execution of a Pipeline with All Ingestion Notebooks
+<img src="adls/Images/16.png" alt="Pipeline Execution" width="30%" />
+
+### Verification of the Raw Folder in ADLS and Execution of Ingestion Notebooks
+<img src="adls/Images/18.png" alt="Raw Folder Verification" width="30%" />
+
+## Cost of This Small Project
+<img src="adls/Images/19.png" alt="Project Cost" width="75%" />
+
+## My Azure Portal Dashboard for This Project
+<img src="adls/Images/20.png" alt="Azure Portal Dashboard" width="75%" />
 
